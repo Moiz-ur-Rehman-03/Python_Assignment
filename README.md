@@ -1,7 +1,7 @@
-# Python Socket Assignment
+# Serverless Messaging System
 Serverless messaging system for peer-to-peer interaction.\
 
-### Things are done in this project:
+### Things done in this project:
   1. Background threads, so the program can act as server and client at the same time.\
   2. Mutex Lock so that we can avoid Race Conditions\
   3. Two classes, to increase readability for easy understanding and to debug.\
