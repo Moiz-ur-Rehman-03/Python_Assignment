@@ -1,5 +1,5 @@
 # Serverless Messaging System
-Serverless messaging system for peer-to-peer interaction.\
+Serverless messaging system for peer-to-peer interaction.
 
 ### Things done in this project:
   1. Background threads, so the program can act as server and client at the same time.\
